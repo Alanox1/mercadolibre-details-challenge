@@ -9,7 +9,7 @@ import logo from "../assets/logo.png";
 
 import Routes from "./routes";
 
-const App: React.FC = () => {
+const App = () => {
   return (
     <Stack>
       <Box backgroundColor="primary.500" boxShadow="sm" paddingY={2}>
