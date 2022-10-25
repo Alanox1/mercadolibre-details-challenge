@@ -18,7 +18,7 @@ import ProductPromoted from "./components/ProductPromoted/ProductPromoted";
 import QuestionsAndAnswers from "./components/QuestionsAndAnsers/QuestionsAnsAsnwers";
 import Puntuacion from "./components/Puntuacion/Puntuacion";
 
-const DetailsScreen = ({}) => {
+const DetailsScreen = () => {
   const mostrar = () => {
     swal({
       title: "¡Atención!",

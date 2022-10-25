@@ -1,7 +1,7 @@
 import React from "react";
 import {Link, Text} from "@chakra-ui/react";
 
-const HomeScreen: React.FC = () => {
+const HomeScreen = () => {
   return (
     <div>
       <Text>{`<HomeScreen />`}</Text>
